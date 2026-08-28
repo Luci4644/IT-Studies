@@ -2,20 +2,9 @@
 This repository documents my education, coursework, labs, and projects as I pursue an education in Information Technology and Cybersecurity.
 
 Current Coursework
-Network+
+Network Security Fundamentals
 
-Currently studying networking fundamentals and preparing for the CompTIA Network+ certification.
-
-Topics include:
-
-Networking fundamentals
-Network infrastructure
-Network protocols
-IP addressing and subnetting
-Network security
-Network troubleshooting
-Web Programming
-
+Topics include: 
 Currently studying web development using HTML and CSS.
 
 Topics include:
