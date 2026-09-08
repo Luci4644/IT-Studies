@@ -8,7 +8,7 @@ The goal of this repository is to keep track of what I learn, what I practice, a
 
 ## Current Coursework
 
-### 🔐 Security Fundamentals
+### Security Fundamentals
 
 An introduction to computer security based on CompTIA Security+ objectives.
 
@@ -33,7 +33,7 @@ Topics include:
 
 ---
 
-### 🌐 Web Programming — CGS 1820
+### Web Programming CGS 1820
 
 A hands-on introduction to web programming using HTML, CSS, DHTML, and JavaScript.
 
@@ -58,11 +58,14 @@ Topics include:
 
 Projects created outside of coursework to practice and apply technical skills.
 
-### 🦦 Otter Vizion
+### Otter Vizion
 
 A personal project and portfolio website used to experiment with web development and other programming concepts.
 
-### 🔐 OtterGuard
+### Study Tracker
+Personal project to help me take notes in my courses
+
+### OtterGuard
 
 A planned Python-based security logging project designed to practice programming while applying cybersecurity concepts.
 
